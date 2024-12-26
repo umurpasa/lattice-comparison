@@ -22,13 +22,16 @@ The project consists of two main files:
 ```bash
 git clone https://github.com/umurpasa/lattice-comparison
 
+
 2. Install fpylll library:
 ```bash
 pip install fpylll
 
+
 3. Compile the Java file:
 ```bash
 javac LatticeComparison.java
+
 
 ## Usage
 
