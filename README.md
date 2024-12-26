@@ -84,7 +84,7 @@ Results for reduced lattice match: true
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-References
+## References
 
 Lenstra, A.K., Lenstra, H.W., Lovász, L. Factoring polynomials with rational coefficients. Mathematische Annalen (1982)
 fpylll library: https://github.com/fplll/fpylll
